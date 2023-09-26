@@ -1,22 +1,40 @@
-# 🚀 Computer Graphics Project By Om Shingare 🎨
+# ⭐️ Star Bust - Computer Graphics Project ⭐️
 
-## Introduction
-- This project is created using C language and Graphics library.
-- The purpose of this project is to learn and understand the concepts of computer graphics.
-- The project uses various concepts of computer graphics like line drawing, circle drawing, ellipse drawing, polygon drawing, filling, translation, rotation, scaling, reflection, clipping, etc.
+🎨 This Computer Graphics project, titled "Star Bust," is a creative program designed for kids to print characters using a unique character generation method named "Star Bust."
 
-## How to Clone and Run
-- Clone the repository to your local machine using the following command:
-<!-- - `git clone https://github.com/ShingareOm/Computer Graphics Project [Star Bust game].git.` -->
-- Open the project in any IDE that supports C language and Graphics library.
-- Compile and run the project.
+## 🚀 Getting Started
 
-## How to Play
-- After running the project, you will see the loading animation.
-- Use the arrow keys to move your spaceship and the spacebar to shoot.
-- The objective of the game is to shoot down the enemy spaceships while avoiding their attacks.
-- The game ends when you run out of lives or successfully complete all levels.
+### Prerequisites
 
-## Credits
-- This project was created by Om Shingare.
-- Special thanks to any contributors or resources used in the project.
+To run this program, you will need a C/C++ compiler (e.g., Turbo C/C++) since it uses the graphics.h library typically supported in legacy C/C++ environments.
+
+### 🏃‍♀️ Running the Program
+
+1. Clone or download this repository to your local machine.
+2. Open the project in your C/C++ development environment (e.g., Turbo C/C++).
+3. Compile and run the `starbust.c` file.
+4. Follow the on-screen instructions to interact with the program.
+
+## 🌟 Features
+
+- Draw characters using an engaging character generation method.
+- Explore an interactive menu to start drawing characters, access program information, or exit.
+
+## 🖌️ Usage
+
+- Follow the on-screen instructions to choose characters and create artwork.
+- Press `ENTER` to start drawing the selected character.
+- Explore the "About" section for more information about the program's creators.
+
+## ✍️ Authors
+
+- **Om Shingare**
+- **Yaser Sayed**
+
+## 📜 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+## 🙏 Acknowledgments
+
+Special thanks to the authors for creating this educational Computer Graphics project.
